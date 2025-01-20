@@ -1,4 +1,4 @@
-• Using canonical URLs for models
+• Using canonical URLs for models\n
 • Creating SEO-friendly URLs for posts
 • Adding pagination to the post list view
 • Building class-based views
